@@ -3,19 +3,16 @@ body {
 }
 .display-4 {
     font-size: 50px;
-    color: #00182e;
-    
+    color: #00182e;  
 }
 
 .jumbotron {
     background: rgb(255, 255, 255);
-
 }
 
 .navbar li a {
     color: rgb(255, 255, 255);
-    font-size: 20px;
-    
+    font-size: 20px;   
 }
 
 .landing-img {
@@ -33,20 +30,16 @@ body {
 .navbar-brand {
     background: #00182e;
     width: 18%;
-    border-end-end-radius: 20px;
-    
+    border-end-end-radius: 20px;  
 }
 .navbar-custom {
-    background-color: rgb(204, 174, 5);
-    
+    background-color: rgb(204, 174, 5);  
 }
 
 .dropdown-menu.show {
     background-color: #00182e;
     border-end-start-radius: 22px;
-    border-color: rgb(255, 255, 255);
-    
-    
+    border-color: rgb(255, 255, 255);  
 }
 
 
