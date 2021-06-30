@@ -1,0 +1,82 @@
+body {
+    background: #00182e;
+}
+.display-4 {
+    font-size: 50px;
+    color: #00182e;
+    
+}
+
+.jumbotron {
+    background: rgb(255, 255, 255);
+
+}
+
+.navbar li a {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    
+}
+
+.landing-img {
+    width: 40%;
+    height: auto;
+    float: left;
+}
+
+.p-img {
+    color: rgb(145, 144, 144);
+    font-size: 20px;
+    float: inline-start;
+}
+
+.navbar-brand {
+    background: #00182e;
+    width: 18%;
+    border-end-end-radius: 20px;
+    
+}
+.navbar-custom {
+    background-color: rgb(204, 174, 5);
+    
+}
+
+.dropdown-menu.show {
+    background-color: #00182e;
+    border-end-start-radius: 22px;
+    border-color: rgb(255, 255, 255);
+    
+    
+}
+
+
+
+.btn.btn-secondary.dropdown-toggle {
+    background-color: #00182e;
+    border-start-start-radius: 20px;
+
+    
+    
+}
+
+.vis-1 {
+    width: 50%;
+    height: auto;
+    float: left;
+}
+
+.vis-2 {
+    width: 50%;
+    height: auto;
+    float: right;
+}
+.vis-3 {
+    width: 50%;
+    height: auto;
+    float: left;
+}
+.vis-4 {
+    width: 50%;
+    height: auto;
+    float: right;
+}
