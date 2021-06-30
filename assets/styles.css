@@ -25,7 +25,7 @@ body {
     color: rgb(145, 144, 144);
     font-size: 20px;
     float: inline-start;
-    text-align: ;
+    
 }
 
 .navbar-brand {
@@ -49,8 +49,6 @@ body {
     background-color: #00182e;
     border-start-start-radius: 20px;
 
-    
-    
 }
 
 .vis-1 {
@@ -75,6 +73,6 @@ body {
     float: right;
 }
 .compare {
-    width: 90%;
+    width: 100%;
     height: auto;
 }
