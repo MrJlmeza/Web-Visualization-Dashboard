@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
     <link rel="stylesheet" href="../assets/styles.css" media="screen">
-    <title>Wind Speed</title>
+    <title>Comparisons</title>
   </head>
   <body>
     <nav class="navbar navbar-expand-lg navbar-custom">
@@ -39,48 +39,56 @@
         </div>
       </nav>
       <div class="row">
-        <div class="col-sm-8"><div class="jumbotron">
-          <h1 style="text-align:center;" class="display-4">Wind Speed</h1>
-          <hr class="my-4">
-            <img class="temp-img" src="../assets/images/Fig4.png">
-            <p class="p-img">With our current analysis, there is no obvious relationship between latitude and wind speed, so further analysis is needed. It is easy to see that there may be some correlation; notice that a much larger number of cities in the northern hemisphere report over 20 mph of wind.</p>
-            
-        </div>
-      </div>
-      <div class="col-sm-4"><div class="jumbotron">
-        <h1 style="text-align:center;" class="display-4">Visualizations</h1>
+        <div class="col-sm-12"><div class="jumbotron">              
+        
+        <h1 style="text-align:center;" class="display-4">Comparison: Latitude vs. X</h1>
         
         <hr class="my-4">
-        <article>
-          <a target="_blank" href="../visualizations/temp.html">
-            <img class="vis-1" src="../assets/images/Fig1.png" alt="Cloudy Map">
-          </a>
-        </article>
-          
-        <article>
-          <a target="_blank" href="../visualizations/humidity.html">
-            <img class="vis-2" src="../assets/images/Fig2.png" alt="Humidity Map">
-          </a>
-          
-        </article>
-          
-        <article>
-          <a href="../visualizations/cloudiness.html">
-            <img class="vis-3" target="_blank" src="../assets/images/Fig3.png" alt="Tempurature Map">
-          </a>
-        </article>
-          
-        <article>
-          <a href="../visualizations/wind.html">
-            <img class="vis-4" target="_blank" src="../assets/images/Fig4.png" alt="Wind Map">
-          </a>
+        <div class="row">
+            <div class="col">
+                <article>
+                    <h2 style="text-align:center;">Max Temp</h2>  
+                <a target="_blank" href="../visualizations/temp.html">
+                    <img class="compare" src="../assets/images/Fig1.png" alt="Max Temperature Map">
+                </a>
+                </article>
+            </div>
+            <div class="col">
+                <article>
+                    <h2 style="text-align:center;">Humidity</h2>
+                <a target="_blank" href="../visualizations/humidity.html">
+                    <img class="compare" src="../assets/images/Fig2.png" alt="Humidity Map">
+                </a>          
+                </article>
+            </div>
+            <div class="w-100"></div>
+            <div class="col"><article>
+                <h2 style="text-align:center;">Cloudiness</h2>
+            <a href="../visualizations/cloudiness.html">
+                <img class="compare" target="_blank" src="../assets/images/Fig3.png" alt="Cloudiness Map">
+            </a>
+            </article></div>
+            <div class="col"><article>
+                <h2 style="text-align:center;">Wind Speed</h2>
+            <a href="../visualizations/wind.html">
+                <img class="compare" target="_blank" src="../assets/images/Fig4.png" alt="Wind Map">
+            </a>
+                
+            </article></div>
+          </div>
+       
+                
+                
+                
+                
+                
+                
+                
+            </div> 
+
+            </div>
             
-        </article>
-          
-        <p style="text-align:center;">Visualizations</p>
-      </div> 
-      
-    </div>>
+ 
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

@@ -25,6 +25,7 @@ body {
     color: rgb(145, 144, 144);
     font-size: 20px;
     float: inline-start;
+    text-align: ;
 }
 
 .navbar-brand {
@@ -72,4 +73,8 @@ body {
     width: 50%;
     height: auto;
     float: right;
+}
+.compare {
+    width: 90%;
+    height: auto;
 }
