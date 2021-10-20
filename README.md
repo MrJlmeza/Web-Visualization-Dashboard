@@ -1,5 +1,7 @@
 # Web Visualization Dashboard (Latitude)
 
+Link to dashboard:  https://mrjlmeza.github.io/Web-Visualization-Dashboard/
+
 * A [landing page] containing:
   * An explanation
   * Links to each visualizations page. 
