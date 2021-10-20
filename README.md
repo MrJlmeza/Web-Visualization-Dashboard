@@ -1,7 +1,7 @@
 # Web Visualization Dashboard (Latitude)
 
 * A [landing page] containing:
-  * An explanation of the project.
+  * An explanation
   * Links to each visualizations page. 
 * Four [visualization pages], each with:
   * A descriptive title and heading tag.
